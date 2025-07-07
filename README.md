@@ -37,18 +37,18 @@
 ## 📸 Screenshots
 
 ### 🔹 Home Page  
-![Home](./frontend/src/assets/screenshots/home.png)
+![Home](./client/src/assets/screenshots/home.png)
 
 ### 🔹 Add Product Tracker  
-![Track](./frontend/src/assets/screenshots/AddProduct.png)
+![Track](./client/src/assets/screenshots/AddProduct.png)
 
 ### 🔹 Price History Chart  
-![Chart](./frontend/src/assets/screenshots/addproduct1.png)
+![Chart](./client/src/assets/screenshots/addproduct1.png)
 
 ### 🔹 Explore Deals 
-![Deals](./frontend/src/assets/screenshots/topdeal1.png)
+![Deals](./client/src/assets/screenshots/topdeal1.png)
 ### 🔹 Explore Deals 
-![Deals](./frontend/src/assets/screenshots/topdeal2.png)
+![Deals](./client/src/assets/screenshots/topdeal2.png)
 
 >
 
