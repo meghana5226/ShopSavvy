@@ -13,6 +13,13 @@
 **ShopSavvy** is a full-stack price tracking and notification app that allows users to monitor products from eCommerce websites. Users receive alerts via email when product prices drop or come back in stock. It uses Puppeteer to scrape live data and MongoDB to store it, providing real-time insights and alerts through a modern UI.
 
 ---
+## 🌐 Live Demo
+
+🛒 Explore the live version here:  
+👉 [https://shopsavvy-frontend.netlify.app](https://shopsavvy-frontend.netlify.app)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71df3341-cacf-470d-8699-4bfa620f99d4/deploy-status)](https://app.netlify.com/sites/shopsavvy-frontend/deploys)
+---
 
 ## 🚀 Features
 
@@ -63,7 +70,7 @@ ShopSavvy/
 │ ├── routes/
 │ ├── utils/
 │ └── server.js
-├── frontend/
+├── client/
 │ ├── src/
 │ │ ├── assets/
 │ │ ├── components/
