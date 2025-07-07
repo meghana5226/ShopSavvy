@@ -1,0 +1,66 @@
+.product-card {
+  background: #ffffffcc;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  text-align: center;
+  max-width: 300px;
+  margin: 16px auto;
+  transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+  transform: scale(1.03);
+}
+
+.product-image {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.product-title {
+  margin-top: 10px;
+  font-size: 20px;
+  color: #333;
+}
+
+.prices {
+  margin: 12px 0;
+  font-size: 16px;
+  color: #444;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.buy-btn {
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: 0.3s;
+  color: white;
+}
+
+.buy-btn.amazon {
+  background-color: #ff9900;
+}
+
+.buy-btn.flipkart {
+  background-color: #2874f0;
+}
+
+.buy-btn.meesho {
+  background-color: #e91e63;
+}
+
+.buy-btn:hover {
+  opacity: 0.9;
+}
