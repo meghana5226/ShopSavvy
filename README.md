@@ -67,22 +67,30 @@ Your backend is live at:
 
 ## 📁 Folder Structure
 
-ShopSavvy/
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── utils/
-│ └── server.js
-├── client/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ └── App.jsx
-├── .env (ignored)
-├── README.md
-└── package.json
+- ShopSavvy/
+- ├── backend/
+- │ ├── controllers/
+...
+- └── package.json
++ ```bash
++ ShopSavvy/
++ ├── backend/
++ │   ├── controllers/
++ │   ├── models/
++ │   ├── routes/
++ │   ├── utils/
++ │   └── server.js
++ ├── client/
++ │   ├── src/
++ │   │   ├── assets/
++ │   │   ├── components/
++ │   │   ├── pages/
++ │   │   └── App.jsx
++ ├── .env (ignored)
++ ├── README.md
++ └── package.json
++ ```
+
 
 
 
@@ -91,12 +99,15 @@ ShopSavvy/
 Create a `.env` file in the `backend` folder:
 
 ```env
-MONGO_URI=mongodb+srv://Bommishetti:Meghana@cluster0.ec5afln.mongodb.net/shopsavvy?retryWrites=true&w=majority
-EMAIL_USER=meghanabommishetti@gmail.com
-JWT_SECRET=meghana123
++ MONGO_URI=your_mongodb_connection_string
++ EMAIL_USER=your_email_address
++ JWT_SECRET=your_secret_key
 
+---
 
-🙋‍♀️ Author
-Meghana Bommishetti
-GitHub: @meghana5226
-Email: bommishettimeghana@gmail.com
+## 👩‍💻 Author
+
+**Meghana Bommishetti**  
+🔗 GitHub: [@meghana5226](https://github.com/meghana5226)  
+📧 Email: [bommishettimeghana@gmail.com](mailto:bommishettimeghana@gmail.com)
+
