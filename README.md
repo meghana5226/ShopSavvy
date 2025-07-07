@@ -84,18 +84,25 @@ Your backend is live at:
 + ├── README.md
 + └── package.json
 
-## 🧪 Environment Variables
+---
 
-Create a `.env` file in the `backend` folder:
 
-```env
-+ MONGO_URI=your_mongodb_connection_string
-+ EMAIL_USER=your_email_address
-+ JWT_SECRET=your_secret_key
+### 🧪 Environment Variables
+
+ `.env` file in the `backend` folder
+
+```
+MONGO_URI=your_mongodb_connection_string  
+EMAIL_USER=your_email_address  
+JWT_SECRET=your_secret_key
+```
 
 ---
 
-👩‍💻 Author
-Meghana Bommishetti
-🔗 GitHub: @meghana5226
-📧 Email: bommishettimeghana@gmail.com
+### 👩‍💻 Author
+
+**Meghana Bommishetti**
+🔗 GitHub: [@meghana5226](https://github.com/meghana5226)
+📧 Email: [bommishettimeghana@gmail.com](mailto:bommishettimeghana@gmail.com)
+
+
