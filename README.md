@@ -23,7 +23,7 @@
 🌐 Live Backend URL
 Your backend is live at:
 
-👉 https://shopsavvy-backend-j0cu.onrender.com/
+👉https://shopsavvy-backend-j0cu.onrender.com/
 
 ## 🚀 Features
 
