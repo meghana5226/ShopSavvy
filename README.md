@@ -40,13 +40,15 @@
 ![Home](./frontend/src/assets/screenshots/home.png)
 
 ### 🔹 Add Product Tracker  
-![Track](./frontend/src/assets/screenshots/track.png)
+![Track](./frontend/src/assets/screenshots/AddProduct.png)
 
 ### 🔹 Price History Chart  
-![Chart](./frontend/src/assets/screenshots/chart.png)
+![Chart](./frontend/src/assets/screenshots/addproduct1.png)
 
-### 🔹 Email Notification Preview  
-![Email](./frontend/src/assets/screenshots/email.png)
+### 🔹 Explore Deals 
+![Deals](./frontend/src/assets/screenshots/topdeal1.png)
+### 🔹 Explore Deals 
+![Deals](./frontend/src/assets/screenshots/topdeal2.png)
 
 >
 
