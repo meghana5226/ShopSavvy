@@ -67,12 +67,6 @@ Your backend is live at:
 
 ## 📁 Folder Structure
 
-- ShopSavvy/
-- ├── backend/
-- │ ├── controllers/
-...
-- └── package.json
-+ ```bash
 + ShopSavvy/
 + ├── backend/
 + │   ├── controllers/
@@ -103,11 +97,11 @@ Create a `.env` file in the `backend` folder:
 + EMAIL_USER=your_email_address
 + JWT_SECRET=your_secret_key
 
----
 
-## 👩‍💻 Author
 
-**Meghana Bommishetti**  
-🔗 GitHub: [@meghana5226](https://github.com/meghana5226)  
-📧 Email: [bommishettimeghana@gmail.com](mailto:bommishettimeghana@gmail.com)
+👩‍💻 Author
+Meghana Bommishetti
+🔗 GitHub: @meghana5226
+📧 Email: bommishettimeghana@gmail.com
+
 
