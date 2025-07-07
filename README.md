@@ -19,7 +19,11 @@
 👉 [https://shopsavvy-frontend.netlify.app](https://shopsavvy-frontend.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/71df3341-cacf-470d-8699-4bfa620f99d4/deploy-status)](https://app.netlify.com/sites/shopsavvy-frontend/deploys)
----
+
+🌐 Live Backend URL
+Your backend is live at:
+
+👉 https://shopsavvy-backend-j0cu.onrender.com
 
 ## 🚀 Features
 
